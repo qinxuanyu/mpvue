@@ -1,5 +1,5 @@
 # my-project
-
+# muvue文档 http://mpvue.com/mpvue/#_1
 > A Mpvue project
 
 ## Build Setup
