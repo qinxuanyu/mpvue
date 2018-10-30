@@ -10,7 +10,7 @@
     "build": "rimraf dist && node build/build.js"
   },
   "dependencies": {
-    "mpvue": "1.0.10",
+    "mpvue": "^1.0.10",
     "vuex": "^2.3.1"
   },
   "devDependencies": {
@@ -35,7 +35,7 @@
     "http-proxy-middleware": "^0.17.3",
     "less": "^3.8.1",
     "less-loader": "^4.1.0",
-    "mpvue-loader": "^1.0.13",
+    "mpvue-loader": "1.0.13",
     "mpvue-template-compiler": "^1.0.10",
     "mpvue-webpack-target": "^1.0.0",
     "optimize-css-assets-webpack-plugin": "^2.0.0",
