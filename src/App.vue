@@ -15,7 +15,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
 .container {
   height: 100%;
   display: flex;
