@@ -1,0 +1,35 @@
+@import "/static/css/vendor.wxss";
+
+.information.data-v-4b234116 {
+  padding-bottom: 96rpx;
+}
+.information .bottom.data-v-4b234116 {
+  width: 100%;
+  height: 96rpx;
+  padding: 0 23rpx;
+  border-top: 2rpx solid #bdbdbd;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+.information .bottom .input-wrap.data-v-4b234116 {
+  padding: 0 40rpx 0 80rpx;
+  height: 57rpx;
+  border-radius: 28.5rpx;
+  background-color: #dcdcdc;
+}
+.information .bottom .input-wrap ._input.data-v-4b234116 {
+  font-size: 26rpx;
+}
+.information .bottom .icon.data-v-4b234116 {
+  display: flex;
+  font-size: 26rpx;
+  align-items: center;
+}
+.information .bottom .icon ._img.data-v-4b234116 {
+  width: 33rpx;
+  height: 33rpx;
+}

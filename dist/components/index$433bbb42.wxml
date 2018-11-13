@@ -1,0 +1,7 @@
+<import src="slots" /><template name="index$433bbb42">
+  <view class="_div data-v-9cac10b8"><template name="default"></template>
+    <view class="_div data-v-9cac10b8 weui-cells__title" wx:if="{{title}}">{{title}}</view>
+    <view class="_div data-v-9cac10b8 {{['weui-cells', [title ? 'weui-cells_after-title' : '']]}}"><template data="{{...$root[$k], $root}}" is="{{$slotdefault || 'default'}}"></template></view>
+    <view class="_div data-v-9cac10b8 weui-cells__tips">{{tips}}</view>
+  </view>
+</template>

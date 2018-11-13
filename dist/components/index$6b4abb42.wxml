@@ -1,0 +1,14 @@
+<template name="index$6b4abb42">
+  <view class="_div data-v-5cc3cc9d my-path">
+    <view class="_ul data-v-5cc3cc9d">
+      <view class="_li data-v-5cc3cc9d">
+        <image src alt mode="center" class="_img data-v-5cc3cc9d"></image>
+        <view class="_div data-v-5cc3cc9d text">
+          <view class="_div data-v-5cc3cc9d name">开心农家乐</view>
+          <view class="_p data-v-5cc3cc9d time">2018-11-10</view>
+          <view class="_p data-v-5cc3cc9d num">￥260.00</view>
+        </view> <button class="_button data-v-5cc3cc9d">评价</button>
+      </view>
+    </view>
+  </view>
+</template>

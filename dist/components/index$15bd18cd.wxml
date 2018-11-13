@@ -1,0 +1,13 @@
+<template name="index$15bd18cd">
+  <view class="_div data-v-0bc3bfc9 my-plant">
+    <view class="_ul data-v-0bc3bfc9">
+      <view class="_li data-v-0bc3bfc9">
+        <image src alt mode="center" class="_img data-v-0bc3bfc9"></image>
+        <view class="_div data-v-0bc3bfc9 middle">
+          <view class="_p data-v-0bc3bfc9 name">盆栽辣椒</view>
+          <view class="_p data-v-0bc3bfc9 num">数量3</view>
+        </view> <button class="_button data-v-0bc3bfc9">状态</button>
+      </view>
+    </view>
+  </view>
+</template>

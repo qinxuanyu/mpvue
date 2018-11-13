@@ -1,4 +1,5 @@
 <script>
+import 'mp-weui/lib/style.css';
 export default {
    beforeCreate(){
       wx.showNavigationBarLoading()
@@ -31,5 +32,33 @@ export default {
   -moz-transition: width 2s;
   -webkit-transition: width 2s;
   -o-transition: width 2s;
+}
+.clearfix:after {
+   content:""; 
+   display: block; 
+   clear:both; 
+}
+.weui-cell{
+  font-size: 28rpx;
+  color: #2f2f2f;
+  .weui-cell__bd {
+     padding-left: 50rpx;
+  }
+}
+.nc-line{
+   	height:18rpx;
+	background-color: #f3f3f3;
+}
+.submit-btn-bottom{
+  width: 660rpx;
+  height: 77rpx;
+  margin-top: 65rpx;
+  background-color: #39b27d;
+  color: #fff;
+  font-size: 32rpx;
+  line-height: 77rpx;
+}
+view{
+	color: #212121;
 }
 </style>

@@ -1,0 +1,55 @@
+<import src="Integral-goods-list$645d6da0" /><template name="index$10290cf0">
+  <view class="_div data-v-badb91a4 sign-in">
+    <view class="_div data-v-badb91a4 top">
+      <view class="_div data-v-badb91a4 info">
+        <image src alt class="_img data-v-badb91a4"></image>
+        <view class="_div data-v-badb91a4 middle">
+          <view class="_div data-v-badb91a4 name"><label class="_span data-v-badb91a4">快乐</label> <label class="_span data-v-badb91a4">LV2</label></view>
+          <view class="_div data-v-badb91a4 link">积分专区</view>
+        </view> <button class="_button data-v-badb91a4">签到</button>
+      </view>
+      <view class="_div data-v-badb91a4 flow">
+        <view class="_p data-v-badb91a4">10赠币</view>
+        <view class="_ul data-v-badb91a4 box">
+          <view class="_li data-v-badb91a4 active">
+            <view class="_i data-v-badb91a4"></view>
+            <view class="_div data-v-badb91a4"></view>
+          </view>
+          <view class="_li data-v-badb91a4">
+            <view class="_i data-v-badb91a4"></view>
+            <view class="_div data-v-badb91a4"></view>
+          </view>
+          <view class="_li data-v-badb91a4">
+            <view class="_i data-v-badb91a4"></view>
+            <view class="_div data-v-badb91a4"></view>
+          </view>
+          <view class="_li data-v-badb91a4">
+            <view class="_i data-v-badb91a4"></view>
+            <view class="_div data-v-badb91a4"></view>
+          </view>
+          <view class="_li data-v-badb91a4">
+            <view class="_i data-v-badb91a4"></view>
+            <view class="_div data-v-badb91a4"></view>
+          </view>
+          <view class="_li data-v-badb91a4">
+            <view class="_i data-v-badb91a4"></view>
+            <view class="_div data-v-badb91a4"></view>
+          </view>
+          <view class="_li data-v-badb91a4">
+            <view class="_i data-v-badb91a4"></view>
+            <view class="_div data-v-badb91a4"></view>
+          </view>
+        </view>
+        <view class="_ul data-v-badb91a4 num">
+          <view class="_li data-v-badb91a4">第1天</view>
+          <view class="_li data-v-badb91a4">第2天</view>
+          <view class="_li data-v-badb91a4">第3天</view>
+          <view class="_li data-v-badb91a4">第4天</view>
+          <view class="_li data-v-badb91a4">第5天</view>
+          <view class="_li data-v-badb91a4">第6天</view>
+          <view class="_li data-v-badb91a4">第7天</view>
+        </view>
+      </view>
+    </view> <template data="{{...$root[$kk+'0'], $root}}" is="Integral-goods-list$645d6da0"></template>
+  </view>
+</template>

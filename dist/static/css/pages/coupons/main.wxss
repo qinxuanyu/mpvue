@@ -1,0 +1,34 @@
+@import "/static/css/vendor.wxss";
+
+.coupons ._ul ._li.data-v-0fe19337 {
+  display: flex;
+  width: 700rpx;
+  margin: 27rpx auto 0 auto;
+  text-align: center;
+  color: #fc2828;
+}
+.coupons ._ul ._li .left.data-v-0fe19337 {
+  width: 490rpx;
+  height: 190rpx;
+  float: left;
+  text-align: left;
+}
+.coupons ._ul ._li .left .type.data-v-0fe19337 {
+  font-size: 36rpx;
+}
+.coupons ._ul ._li .left .type ._span.data-v-0fe19337 {
+  font-size: 72rpx;
+  margin-right: 7rpx;
+}
+.coupons ._ul ._li .left .num.data-v-0fe19337 {
+  font-size: 26rpx;
+}
+.coupons ._ul ._li .rigth.data-v-0fe19337 {
+  width: 210rpx;
+  height: 190rpx;
+  margin-top: 26rpx;
+  float: left;
+}
+.coupons ._ul ._li .rigth .btn.data-v-0fe19337 {
+  font-size: 46rpx;
+}

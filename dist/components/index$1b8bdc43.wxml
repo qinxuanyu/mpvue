@@ -1,0 +1,3 @@
+<import src="slots" /><template name="index$1b8bdc43">
+  <view class="_div data-v-22589cf0 weui-grids"><template name="default"></template><template data="{{...$root[$k], $root}}" is="{{$slotdefault || 'default'}}"></template></view>
+</template>

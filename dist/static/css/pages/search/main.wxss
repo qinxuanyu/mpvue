@@ -1,0 +1,38 @@
+@import "/static/css/vendor.wxss";
+
+.search .weui-search-bar {
+  background-color: #fff;
+  border: 0;
+}
+.search .line {
+  height: 18rpx;
+  background-color: #f3f3f3;
+}
+.search .history {
+  padding: 33rpx;
+}
+.search .history .title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.search .history .title ._span:nth-child(1) {
+  font-size: 30rpx;
+  color: #2f2f2f;
+}
+.search .history .title ._span:nth-child(2) {
+  font-size: 26rpx;
+  color: #777777;
+}
+.search .history .list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.search .history .list ._li {
+  font-size: 28rpx;
+  color: #777777;
+  padding: 18rpx 40rpx;
+  border-radius: 10rpx;
+  background-color: #f2f2f2;
+  margin: 8rpx 11rpx;
+}

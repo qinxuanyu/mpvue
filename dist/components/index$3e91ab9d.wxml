@@ -1,0 +1,13 @@
+<template name="index$3e91ab9d">
+  <checkbox-group bindchange="handleProxy" class="_checkbox-group data-v-0be21e72 weui-agree" data-eventid="{{'0'}}" data-comkey="{{$k}}"><label style="display:inline-block" class="_label data-v-0be21e72">
+      <view class="_div data-v-0be21e72 weui-agree__text">
+        <checkbox class="_checkbox data-v-0be21e72 weui-agree__checkbox" checked="{{value}}" value="agree" />
+        <view class="_div data-v-0be21e72 weui-agree__checkbox-icon">
+          <icon class="_icon data-v-0be21e72 weui-agree__checkbox-icon-check" type="success_no_circle" wx:if="{{value}}" size="9"></icon>
+        </view>
+        {{label}}
+      </view>
+    </label>
+    <navigator class="_a data-v-0be21e72 weui-agree__link" url="{{url}}" wx:if="{{url}}">{{urlText}}</navigator>
+  </checkbox-group>
+</template>

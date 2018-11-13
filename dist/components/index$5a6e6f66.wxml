@@ -1,0 +1,8 @@
+<template name="index$5a6e6f66">
+  <view class="_div data-v-7276e0ab {{['weui-footer', [fixed ? 'weui-footer_fixed-bottom' : '']]}}">
+    <view class="_div data-v-7276e0ab weui-footer__links" wx:if="{{links.length > 0}}">
+      <navigator class="_a data-v-7276e0ab weui-footer__link" url="{{item.link}}" wx:key="item.text" key="{{item.text}}" wx:for="{{links}}" wx:for-index="index" wx:for-item="item">{{item.text}}</navigator>
+    </view>
+    <view class="_p data-v-7276e0ab weui-footer__text">{{text}}</view>
+  </view>
+</template>

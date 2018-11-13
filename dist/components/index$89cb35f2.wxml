@@ -1,0 +1,27 @@
+<template name="index$89cb35f2">
+  <view class="_div data-v-7d99b1f6 evaluate">
+    <view class="_ul data-v-7d99b1f6 list">
+      <view class="_li data-v-7d99b1f6">
+        <view class="_div data-v-7d99b1f6 top">
+          <view class="_div data-v-7d99b1f6 avatar">
+            <image src alt class="_img data-v-7d99b1f6"></image> <label class="_span data-v-7d99b1f6">快乐</label>
+          </view>
+          <view class="_div data-v-7d99b1f6 num">
+            <image src alt class="_img data-v-7d99b1f6"></image>
+            <image src alt class="_img data-v-7d99b1f6"></image>
+            <image src alt class="_img data-v-7d99b1f6"></image>
+            <image src alt class="_img data-v-7d99b1f6"></image>
+            <image src alt class="_img data-v-7d99b1f6"></image>
+          </view>
+          <view class="_div data-v-7d99b1f6 time">2018-11-03</view>
+        </view>
+        <view class="_p data-v-7d99b1f6 content"> 农庄很不错！周末带孩子们去玩，都玩的很开心，可以 玩的项目很多，钓鱼采摘，周边停车也方便。</view>
+        <view class="_div data-v-7d99b1f6 images">
+          <image src alt mode="center" bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_img data-v-7d99b1f6"></image>
+          <image src alt class="_img data-v-7d99b1f6"></image>
+          <image src alt class="_img data-v-7d99b1f6"></image>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

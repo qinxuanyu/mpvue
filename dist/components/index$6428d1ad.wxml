@@ -1,0 +1,9 @@
+<template name="index$6428d1ad">
+  <navigator hover-class="{{(!isLink && !!href) ? 'weui-cell_active' : 'none'}}" bindtap="handleProxy" url="{{href}}" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_a data-v-7962d0f2 {{[  'weui-cell',  [!!href ? 'weui-cell_access' : '', isLink ? 'weui-cell_link' : '']]}}">
+    <view class="_div data-v-7962d0f2 weui-cell_hd">
+      <image class="_img data-v-7962d0f2 weui-cell_icon" src="{{iconSrc}}" wx:if="{{iconSrc}}"></image>
+    </view>
+    <view class="_div data-v-7962d0f2 weui-cell__bd"><label class="_span data-v-7962d0f2">{{content}}</label></view>
+    <view class="_div data-v-7962d0f2 {{['weui-cell__ft', [!!href ? 'weui-cell__ft_in-access' : '']]}}"><label class="_span data-v-7962d0f2">{{label}}</label></view>
+  </navigator>
+</template>

@@ -1,0 +1,11 @@
+<template name="index$255e1b01">
+  <view class="_div data-v-90717582 my-site">
+    <view class="_ul data-v-90717582">
+      <view class="_li data-v-90717582 item">
+        <view class="_div data-v-90717582 name"><label class="_span data-v-90717582">ds</label> <label class="_span data-v-90717582">15907735561</label></view>
+        <view class="_p data-v-90717582"> 广东省深圳市龙岗区雅宝路星河worldB栋16层 1601A-01 </view>
+        <view class="_div data-v-90717582 btn"><label class="_span data-v-90717582">编辑</label> <label class="_span data-v-90717582">删除</label></view>
+      </view>
+    </view> <button class="_button data-v-90717582 submit-btn-bottom"> +新增地址 </button>
+  </view>
+</template>

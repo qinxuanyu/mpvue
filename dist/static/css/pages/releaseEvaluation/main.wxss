@@ -1,0 +1,86 @@
+@import "/static/css/vendor.wxss";
+
+.s-evaluate .top > ._img.data-v-9b178ae6 {
+  width: 128rpx;
+  height: 111rpx;
+  margin: 25rpx auto;
+}
+.s-evaluate .top .name.data-v-9b178ae6 {
+  font-size: 30rpx;
+  text-align: center;
+  margin-bottom: 30rpx;
+}
+.s-evaluate .cell.data-v-9b178ae6 {
+  display: flex;
+  align-items: center;
+  line-height: 100rpx;
+  padding: 0 34rpx;
+}
+.s-evaluate .cell .label.data-v-9b178ae6 {
+  flex: 1;
+  font-size: 28rpx;
+}
+.s-evaluate .cell .right.data-v-9b178ae6 {
+  flex: 3;
+  display: flex;
+  align-items: center;
+  font-size: 28rpx;
+}
+.s-evaluate .cell .right ._img.data-v-9b178ae6 {
+  width: 26rpx;
+  height: 26rpx;
+}
+.s-evaluate .bottom ._textarea.data-v-9b178ae6 {
+  width: 100%;
+  height: 235rpx;
+  font-size: 26rpx;
+  padding: 34rpx;
+  box-sizing: border-box;
+}
+.s-evaluate .upload.data-v-9b178ae6 {
+  display: flex;
+  font-size: 24rpx;
+  align-items: flex-end;
+  padding: 34rpx;
+}
+.s-evaluate .upload .img-btn.data-v-9b178ae6 {
+  width: 126rpx;
+  height: 122rpx;
+  border: 2rpx dashed #f3f3f3;
+}
+.s-evaluate .upload .img-btn ._img.data-v-9b178ae6 {
+  display: block;
+  width: 44rpx;
+  height: 38rpx;
+  margin: 24rpx auto 16rpx auto;
+}
+.s-evaluate .upload .img-btn ._span.data-v-9b178ae6 {
+  text-align: center;
+  color: #727272;
+}
+.s-evaluate .upload ._p.data-v-9b178ae6 {
+  color: #727272;
+  margin-left: 22rpx;
+}
+.s-evaluate .img-box.data-v-9b178ae6 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 34rpx;
+}
+.s-evaluate .img-box ._img.data-v-9b178ae6 {
+  width: 126rpx;
+  height: 122rpx;
+  margin: 8rpx;
+}
+.s-evaluate .submit-btn.data-v-9b178ae6 {
+  width: 175rpx;
+  height: 77rpx;
+  line-height: 77rpx;
+  font-size: 32rpx;
+  color: #fff;
+  position: fixed;
+  right: 50rpx;
+  bottom: 50rpx;
+  background-color: #39b27d;
+}

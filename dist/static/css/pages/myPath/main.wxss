@@ -1,0 +1,35 @@
+@import "/static/css/vendor.wxss";
+
+.my-path ._ul ._li.data-v-5cc3cc9d {
+  display: flex;
+  align-items: center;
+  padding: 23rpx 20rpx;
+  border-bottom: 2rpx solid #f4f4f4;
+}
+.my-path ._ul ._li ._img.data-v-5cc3cc9d {
+  width: 202rpx;
+  height: 176rpx;
+}
+.my-path ._ul ._li .text.data-v-5cc3cc9d {
+  flex: 1;
+}
+.my-path ._ul ._li .text .name.data-v-5cc3cc9d {
+  font-size: 30rpx;
+}
+.my-path ._ul ._li .text .time.data-v-5cc3cc9d {
+  font-size: 24rpx;
+  color: #8f8f8f;
+}
+.my-path ._ul ._li .text .num.data-v-5cc3cc9d {
+  font-size: 26rpx;
+  color: #f11010;
+  margin-top: 64rpx;
+}
+.my-path ._ul ._li ._button.data-v-5cc3cc9d {
+  width: 160rpx;
+  height: 57rpx;
+  line-height: 57rpx;
+  font-size: 28rpx;
+  color: #fff;
+  background-color: #39b27d;
+}

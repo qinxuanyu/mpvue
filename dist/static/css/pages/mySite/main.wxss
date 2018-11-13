@@ -1,0 +1,30 @@
+@import "/static/css/vendor.wxss";
+
+.my-site.data-v-90717582 {
+  min-height: 100vh;
+  background-color: #f3f3f3;
+}
+.my-site ._ul.data-v-90717582 {
+  background-color: #fff;
+}
+.my-site ._ul .item.data-v-90717582 {
+  padding: 34rpx 37rpx;
+  border-bottom: 2rpx solid #f4f4f4;
+}
+.my-site ._ul .item .name.data-v-90717582 {
+  display: flex;
+  justify-content: space-between;
+  font-size: 28rpx;
+}
+.my-site ._ul .item ._p.data-v-90717582 {
+  margin: 26rpx 0 28rpx 0;
+  font-size: 26rpx;
+}
+.my-site ._ul .item .btn.data-v-90717582 {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 26rpx;
+}
+.my-site ._ul .item .btn ._span.data-v-90717582:nth-child(1) {
+  margin-right: 70rpx;
+}

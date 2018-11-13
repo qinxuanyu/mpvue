@@ -1,0 +1,25 @@
+@import "/static/css/vendor.wxss";
+
+.add-site.data-v-bba5481c {
+  min-height: 100vh;
+  background-color: #f3f3f3;
+}
+.add-site ._ul.data-v-bba5481c {
+  background-color: #fff;
+}
+.add-site ._ul ._li.data-v-bba5481c {
+  display: flex;
+  font-size: 28rpx;
+  padding: 37rpx;
+  align-items: center;
+  border-bottom: 2rpx solid #f5f5f5;
+}
+.add-site ._ul ._li ._label.data-v-bba5481c {
+  flex: 1;
+}
+.add-site ._ul ._li ._input.data-v-bba5481c {
+  flex: 3;
+}
+.add-site ._ul ._li picker.data-v-bba5481c {
+  flex: 3;
+}

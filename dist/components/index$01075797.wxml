@@ -1,0 +1,52 @@
+<template name="index$01075797">
+  <view class="_div data-v-0d5d425a f-details">
+    <swiper autoplay="{{true}}" indicator-dots="{{true}}" indicator-color="#e8e8e8" indicator-active-color="#60a609" class="_swiper data-v-0d5d425a swiper">
+      <swiper-item class="_swiper-item data-v-0d5d425a">
+        <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1082862537,3573447771&fm=27&gp=0.jpg" class="_image data-v-0d5d425a slide-image" width="355" height="150"></image>
+      </swiper-item>
+      <swiper-item class="_swiper-item data-v-0d5d425a">
+        <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1082862537,3573447771&fm=27&gp=0.jpg" class="_image data-v-0d5d425a slide-image" width="355" height="150"></image>
+      </swiper-item>
+    </swiper>
+    <view class="_div data-v-0d5d425a share">
+      <view class="_p data-v-0d5d425a">分享给朋友，您和朋友都能获得￥30优惠劵</view>
+      <image src alt class="_img data-v-0d5d425a"></image>
+    </view>
+    <view class="_div data-v-0d5d425a link-box">
+      <view class="_ul data-v-0d5d425a">
+        <view class="_li data-v-0d5d425a pink ">
+          <image src alt class="_img data-v-0d5d425a"></image>
+          <view class="_p data-v-0d5d425a">积分兑换</view>
+        </view>
+        <view class="_li data-v-0d5d425a green">
+          <image src alt class="_img data-v-0d5d425a"></image>
+          <view class="_p data-v-0d5d425a">手机买单</view>
+        </view>
+        <view class="_li data-v-0d5d425a orange">
+          <image src alt class="_img data-v-0d5d425a"></image>
+          <view class="_p data-v-0d5d425a">领养领种</view>
+        </view>
+        <view class="_li data-v-0d5d425a max orange">
+          <image src alt class="_img data-v-0d5d425a"></image>
+          <view class="_p data-v-0d5d425a">最新活动</view>
+        </view>
+        <view class="_li data-v-0d5d425a pink ">
+          <image src alt class="_img data-v-0d5d425a"></image>
+          <view class="_p data-v-0d5d425a">农场优品</view>
+        </view>
+        <view class="_li data-v-0d5d425a gray">
+          <image src alt class="_img data-v-0d5d425a"></image>
+          <view class="_p data-v-0d5d425a">优惠券</view>
+        </view>
+        <view class="_li data-v-0d5d425a orange">
+          <image src alt class="_img data-v-0d5d425a"></image>
+          <view class="_p data-v-0d5d425a">研学知识</view>
+        </view>
+        <view class="_li data-v-0d5d425a green">
+          <image src alt class="_img data-v-0d5d425a"></image>
+          <view class="_p data-v-0d5d425a">庄园地图</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

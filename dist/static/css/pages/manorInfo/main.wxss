@@ -1,0 +1,16 @@
+@import "/static/css/vendor.wxss";
+
+.manor-info .info ._li.data-v-5ec3dff5 {
+  display: flex;
+  font-size: 28rpx;
+  line-height: 90rpx;
+  border-top: 2rpx solid #f5f5f5;
+  padding: 0 40rpx;
+}
+.manor-info .info ._li ._span.data-v-5ec3dff5 {
+  color: #949494;
+  padding-right: 74rpx;
+}
+.manor-info .nodes.data-v-5ec3dff5 {
+  padding: 20epx;
+}

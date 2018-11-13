@@ -1,0 +1,8 @@
+<template name="index$008de238">
+  <view class="_div data-v-bcdf7506 weui-progress">
+    <view class="_div data-v-bcdf7506 weui-progress__bar"><progress backgroundColor="{{backgroundColor}}" active-mode="{{animateMode}}" stroke-width="{{width}}" show-info="{{showInfo}}" activeColor="{{color}}" percent="{{percent}}" active="{{animate}}" class="_progress data-v-bcdf7506" /></view>
+    <view class="_div data-v-bcdf7506 weui-progress__opr" wx:if="{{showCancel}}">
+      <icon bindtap="handleProxy" size="{{cancelSize}}" type="cancel" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_icon data-v-bcdf7506"></icon>
+    </view>
+  </view>
+</template>

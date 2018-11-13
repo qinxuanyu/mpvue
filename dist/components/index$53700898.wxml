@@ -1,0 +1,6 @@
+<import src="index$73ddf0ca" />
+<import src="collection-list$477631c7" /><template name="index$53700898">
+  <view class="_div data-v-0361abd4"><template value="{{activeIndex}}" bindchange="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" data="{{...$root[$kk+'0'], $root, $slotdefault:'data-v-0361abd4-default-0'}}" is="index$73ddf0ca"></template>
+    <view class="_div data-v-0361abd4 nc-line"></view> <template data="{{...$root[$kk+'1'], $root}}" is="collection-list$477631c7"></template>
+  </view>
+</template>

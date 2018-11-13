@@ -1,0 +1,19 @@
+<template name="manorList$ac43fe56">
+  <view class="_div data-v-13d66340 manor-list">
+    <view class="_ul data-v-13d66340">
+      <view class="_li data-v-13d66340">
+        <image src alt class="_img data-v-13d66340"></image>
+        <view class="_div data-v-13d66340 name">
+          <view class="_p data-v-13d66340">开心农家乐家庭组</view>
+          <view class="_div data-v-13d66340 price"><label class="_span data-v-13d66340">人均</label> <label class="_span data-v-13d66340">￥80</label></view>
+        </view>
+        <view class="_div data-v-13d66340 site">
+          <view class="_p data-v-13d66340 distance">
+            <view class="_i data-v-13d66340"></view> 海淀22Km
+          </view>
+          <view class="_p data-v-13d66340 num">已有<label class="_span data-v-13d66340">624</label>人次游玩</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

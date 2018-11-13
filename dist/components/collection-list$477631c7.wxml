@@ -1,0 +1,15 @@
+<template name="collection-list$477631c7">
+  <view class="_div data-v-d350501c collection-list">
+    <view class="_ul data-v-d350501c">
+      <view class="_li data-v-d350501c item">
+        <image src alt mode="center" class="_img data-v-d350501c"></image>
+        <view class="_div data-v-d350501c text">
+          <view class="_p data-v-d350501c">农家走地鸡 喂食五谷杂粮 土鸡蛋60枚</view>
+          <view class="_div data-v-d350501c num"><label class="_span data-v-d350501c red">￥60</label> <label class="_span data-v-d350501c distance">
+              <view class="_i data-v-d350501c"></view>
+            </label></view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/submitPlant/main",
+    "pages/addSite/main",
+    "pages/counter/main",
+    "pages/coupons/main",
+    "pages/details/main",
+    "pages/evaluate/main",
+    "pages/f_details/main",
+    "pages/index/main",
+    "pages/information/main",
+    "pages/manorInfo/main",
+    "pages/my/main",
+    "pages/myCollection/main",
+    "pages/myInfo/main",
+    "pages/myPath/main",
+    "pages/myPlant/main",
+    "pages/mySite/main",
+    "pages/releaseEvaluation/main",
+    "pages/search/main",
+    "pages/searchList/main",
+    "pages/signIn/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}

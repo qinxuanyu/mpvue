@@ -1,0 +1,48 @@
+<import src="index$73ddf0ca" /><template name="index$5e827330">
+  <view class="_div data-v-54891a2c details">
+    <swiper autoplay="{{true}}" indicator-dots="{{true}}" indicator-color="#e8e8e8" indicator-active-color="#60a609" class="_swiper data-v-54891a2c swiper">
+      <swiper-item class="_swiper-item data-v-54891a2c">
+        <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1082862537,3573447771&fm=27&gp=0.jpg" class="_image data-v-54891a2c slide-image" width="355" height="150"></image>
+      </swiper-item>
+      <swiper-item class="_swiper-item data-v-54891a2c">
+        <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1082862537,3573447771&fm=27&gp=0.jpg" class="_image data-v-54891a2c slide-image" width="355" height="150"></image>
+      </swiper-item>
+    </swiper>
+    <view class="_div data-v-54891a2c main">
+      <view class="_div data-v-54891a2c name">
+        <view class="_p data-v-54891a2c">开心农家乐家庭游玩</view>
+        <view class="_div data-v-54891a2c icon">
+          <image src alt class="_img data-v-54891a2c"></image>
+          <image src alt class="_img data-v-54891a2c"></image>
+        </view>
+      </view>
+      <view class="_div data-v-54891a2c score">
+        <image src alt class="_img data-v-54891a2c"></image>
+        <image src alt class="_img data-v-54891a2c"></image>
+        <image src alt class="_img data-v-54891a2c"></image>
+        <image src alt class="_img data-v-54891a2c"></image>
+        <image src alt class="_img data-v-54891a2c"></image> <label class="_span data-v-54891a2c">4.2分</label>
+      </view>
+      <view class="_div data-v-54891a2c site">
+        <image src alt class="_img data-v-54891a2c one"></image>
+        <view class="_p data-v-54891a2c">怀柔怀柔区长源村2号绿道双道廊桥驿站前进50米</view>
+        <image src alt class="_img data-v-54891a2c two"></image>
+      </view>
+    </view>
+    <view class="_div data-v-54891a2c link">
+      <view class="_div data-v-54891a2c time">
+        <view class="_div data-v-54891a2c item">
+          <view class="_div data-v-54891a2c label">项目</view>
+          <view class="_div data-v-54891a2c text">亲子采摘；钓鱼；野炊；儿童乐园等</view>
+        </view>
+        <view class="_div data-v-54891a2c item">
+          <view class="_div data-v-54891a2c label">营业时间</view>
+          <view class="_div data-v-54891a2c text">周一至周日 09:30-20:00</view>
+        </view>
+      </view>
+      <view class="_div data-v-54891a2c d-cell"><label class="_span data-v-54891a2c">庄园地图</label></view>
+      <view class="_div data-v-54891a2c d-cell"><label class="_span data-v-54891a2c">手机买单，更享优惠</label> <button class="_button data-v-54891a2c">手机买单</button></view>
+      <view class="_div data-v-54891a2c d-cell"><label class="_span data-v-54891a2c">农场优选，有你想要</label> <button class="_button data-v-54891a2c">农场优选</button></view>
+    </view> <template value="{{activeIndex}}" bindchange="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" data="{{...$root[$kk+'2'], $root, $slotdefault:'data-v-54891a2c-default-2'}}" is="index$73ddf0ca"></template>
+  </view>
+</template>

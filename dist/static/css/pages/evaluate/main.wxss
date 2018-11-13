@@ -1,0 +1,46 @@
+@import "/static/css/vendor.wxss";
+
+.evaluate .list ._li.data-v-7d99b1f6 {
+  padding: 17rpx;
+  border-bottom: 2rpx solid #dbdbdb;
+}
+.evaluate .list ._li .top.data-v-7d99b1f6 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.evaluate .list ._li .top .avatar.data-v-7d99b1f6 {
+  display: flex;
+  font-size: 26rpx;
+  color: #565656;
+}
+.evaluate .list ._li .top .avatar ._img.data-v-7d99b1f6 {
+  width: 53rpx;
+  height: 53rpx;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.evaluate .list ._li .top .num.data-v-7d99b1f6 {
+  display: flex;
+}
+.evaluate .list ._li .top .num ._img.data-v-7d99b1f6 {
+  width: 26rpx;
+  height: 26rpx;
+  margin-left: 13rpx;
+}
+.evaluate .list ._li .top .time.data-v-7d99b1f6 {
+  font-size: 24rpx;
+  color: #8f8f8f;
+}
+.evaluate .list ._li .content.data-v-7d99b1f6 {
+  font-size: 28rpx;
+}
+.evaluate .list ._li .images.data-v-7d99b1f6 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.evaluate .list ._li .images ._img.data-v-7d99b1f6 {
+  width: 220rpx;
+  height: 210rpx;
+  margin-right: 16rpx;
+}

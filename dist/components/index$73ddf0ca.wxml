@@ -1,0 +1,11 @@
+<import src="slots" /><template name="index$73ddf0ca">
+  <view class="_div data-v-43cd0e40 weui-tab"><template name="default"></template>
+    <view class="_div data-v-43cd0e40 weui-navbar">
+      <view bindtap="handleProxy" wx:key="item" key="{{item}}" data-eventid="{{'0-'+index}}" data-comkey="{{$k}}" wx:for="{{columns}}" wx:for-index="index" wx:for-item="item" class="_div data-v-43cd0e40 {{['weui-navbar__item', [value == index ? 'weui-bar__item_on' : '']]}}">
+        <view class="_div data-v-43cd0e40 weui-navbar__title">{{item}}</view>
+      </view>
+      <view class="_div data-v-43cd0e40 weui-navbar__slider" style=" {{sliderStyle}}"></view>
+    </view>
+    <view class="_div data-v-43cd0e40 weui-tab__panel"><template data="{{...$root[$k], $root}}" is="{{$slotdefault || 'default'}}"></template></view>
+  </view>
+</template>

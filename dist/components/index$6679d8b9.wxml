@@ -1,0 +1,20 @@
+<template name="index$6679d8b9">
+  <view class="_div data-v-5ec3dff5 manor-info">
+    <view class="_ul data-v-5ec3dff5 info">
+      <view class="_li data-v-5ec3dff5"><label class="_span data-v-5ec3dff5">周边交通</label>
+        <view class="_p data-v-5ec3dff5">G12高速；316国道</view>
+      </view>
+      <view class="_li data-v-5ec3dff5"><label class="_span data-v-5ec3dff5">经营项目</label>
+        <view class="_p data-v-5ec3dff5">亲子采摘；钓鱼；野炊；棋牌；儿童乐园</view>
+      </view>
+      <view class="_li data-v-5ec3dff5"><label class="_span data-v-5ec3dff5">经营时间</label>
+        <view class="_p data-v-5ec3dff5">周一至周日 09:30-20:00</view>
+      </view>
+      <view class="_li data-v-5ec3dff5"><label class="_span data-v-5ec3dff5">基础设施</label>
+        <view class="_p data-v-5ec3dff5">免费停车；免费WIFI</view>
+      </view>
+    </view>
+    <view class="_div data-v-5ec3dff5 nc-line"></view>
+    <view class="_div data-v-5ec3dff5 nodes"></view>
+  </view>
+</template>

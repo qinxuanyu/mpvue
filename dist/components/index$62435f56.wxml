@@ -1,0 +1,11 @@
+<import src="index$34cb3333" /><template name="index$62435f56">
+  <view class="_div data-v-16a6ecd8 search"><template bindconfirm="handleProxy" bindchange="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" data="{{...$root[$kk+'0'], $root}}" is="index$34cb3333"></template>
+    <view class="_div data-v-16a6ecd8 line"></view>
+    <view class="_div data-v-16a6ecd8 history">
+      <view class="_div data-v-16a6ecd8 title"><label class="_span data-v-16a6ecd8">最近搜索</label> <label catchtap="handleProxy" data-eventid="{{'1'}}" data-comkey="{{$k}}" class="_span data-v-16a6ecd8">清除</label></view>
+      <view class="_ul data-v-16a6ecd8 list">
+        <view wx:key="index" key="{{index}}" wx:for="{{searchList}}" wx:for-index="index" wx:for-item="item" class="_li data-v-16a6ecd8">{{item}}</view>
+      </view>
+    </view>
+  </view>
+</template>

@@ -1,0 +1,6 @@
+<template name="index$4a0cc691">
+  <navigator bindtap="handleProxy" hover-class="weui-grid_active" class="_a data-v-5f46c5d6 weui-grid" url="{{href}}" data-eventid="{{'0'}}" data-comkey="{{$k}}">
+    <image class="_img data-v-5f46c5d6 weui-grid__icon" src="{{iconSrc}}"></image>
+    <view class="_div data-v-5f46c5d6 weui-grid__label"><label class="_span data-v-5f46c5d6">{{label}}</label></view>
+  </navigator>
+</template>

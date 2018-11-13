@@ -1,0 +1,16 @@
+<template name="index$58262ccc">
+  <view class="_div data-v-4b234116 information">
+    <view class="_div data-v-4b234116 bottom">
+      <view class="_div data-v-4b234116 input-wrap"><input type="text" placeholder="写评论" class="_input data-v-4b234116" /></view>
+      <view class="_div data-v-4b234116 icon">
+        <image src alt class="_img data-v-4b234116"></image> <label class="_span data-v-4b234116">22</label>
+      </view>
+      <view class="_div data-v-4b234116 icon">
+        <image src alt class="_img data-v-4b234116"></image> <label class="_span data-v-4b234116">22</label>
+      </view>
+      <view class="_div data-v-4b234116 icon">
+        <image src alt class="_img data-v-4b234116"></image>
+      </view>
+    </view>
+  </view>
+</template>

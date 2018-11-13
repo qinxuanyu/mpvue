@@ -1,0 +1,27 @@
+<import src="index$1b8bdc43" />
+<import src="index$4a0cc691" /><template name="index$be46a480">
+  <view class="_div data-v-06c4e47c index">
+    <swiper class="_swiper data-v-06c4e47c">
+      <swiper-item class="_swiper-item data-v-06c4e47c">
+        <image src class="_image data-v-06c4e47c slide-image" width="355" height="150"></image>
+      </swiper-item>
+    </swiper> <template data="{{...$root[$kk+'3'], $root, $slotdefault:'data-v-06c4e47c-default-3'}}" is="index$1b8bdc43"></template>
+    <view class="_ul data-v-06c4e47c list">
+      <view class="_li data-v-06c4e47c">
+        <view class="_p data-v-06c4e47c title">下啊啊啊</view>
+        <view class="_div data-v-06c4e47c img-wrap">
+          <image src alt class="_img data-v-06c4e47c"></image>
+          <image src alt class="_img data-v-06c4e47c icon"></image>
+        </view>
+        <view class="_div data-v-06c4e47c num">
+          <view class="_div data-v-06c4e47c item">
+            <image src alt class="_img data-v-06c4e47c"></image> <label class="_span data-v-06c4e47c">10</label>
+          </view>
+          <view class="_div data-v-06c4e47c item">
+            <image src alt class="_img data-v-06c4e47c"></image> <label class="_span data-v-06c4e47c">20</label>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

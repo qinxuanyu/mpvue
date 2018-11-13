@@ -1,0 +1,24 @@
+<import src="index$6428d1ad" /><template name="index$5d8fe25a">
+  <view class="_div data-v-1d150d18 my">
+    <view class="_div data-v-1d150d18 top">
+      <view class="_div data-v-1d150d18 icon">
+        <image src alt class="_img data-v-1d150d18"></image>
+        <image src alt class="_img data-v-1d150d18"></image>
+      </view>
+      <view class="_div data-v-1d150d18 avatar">
+        <image src alt class="_img data-v-1d150d18"></image> <label class="_span data-v-1d150d18">LV2</label>
+      </view>
+      <view class="_p data-v-1d150d18 name">快乐</view>
+      <view url class="_a data-v-1d150d18 link">签到</view>
+    </view>
+    <view class="_div data-v-1d150d18 middle">
+      <view class="_div data-v-1d150d18 item" wx:key="index" key="{{index}}" wx:for="{{tabList}}" wx:for-index="index" wx:for-item="item" style=" {{('color:' + item.textColor + ';' + 'background:' + item.backgroundColor + ';')}}">
+        <view class="_a data-v-1d150d18 box">
+          <image src="{{item.img}}" alt class="_img data-v-1d150d18"></image>
+          <view class="_p data-v-1d150d18">{{item.title}}</view>
+        </view>
+      </view>
+    </view>
+    <view class="_div data-v-1d150d18 cell"><template wx:key="index" iconSrc="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2486956696,687545127&fm=27&gp=0.jpg" data="{{...$root[$kk+'0-'+index], $root}}" is="index$6428d1ad" wx:for="{{cellList}}" wx:for-index="index" wx:for-item="item"></template></view>
+  </view>
+</template>

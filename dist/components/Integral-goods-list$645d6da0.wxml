@@ -1,0 +1,13 @@
+<template name="Integral-goods-list$645d6da0">
+  <view class="_div data-v-2c643c4a integral-list">
+    <view class="_ul data-v-2c643c4a">
+      <view class="_li data-v-2c643c4a">
+        <image src alt mode="center" class="_img data-v-2c643c4a"></image>
+        <view class="_div data-v-2c643c4a main">
+          <view class="_p data-v-2c643c4a">农家走地鸡鸡蛋30枚</view>
+          <view class="_div data-v-2c643c4a bottom"><label class="_span data-v-2c643c4a">388积分</label> <button class="_button data-v-2c643c4a">去看看</button></view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

@@ -1,0 +1,28 @@
+@import "/static/css/vendor.wxss";
+
+.my-info {
+  min-height: 100vh;
+  background-color: #f3f3f3;
+}
+.my-info .avatar {
+  padding-bottom: 30rpx;
+}
+.my-info .avatar ._img {
+  width: 137rpx;
+  height: 137rpx;
+  border-radius: 50%;
+  margin: 36rpx auto 20rpx auto;
+}
+.my-info .avatar ._p {
+  font-size: 26rpx;
+  text-align: center;
+  color: #999999;
+}
+.my-info .weui-cell {
+  background-color: #fff;
+  border-bottom: 2rpx solid #f5f5f5;
+}
+.my-info .weui-cell::before {
+  border: 0;
+  height: 0;
+}

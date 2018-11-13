@@ -1,0 +1,19 @@
+<template name="index$685b5251">
+  <view class="_div data-v-9b178ae6 s-evaluate">
+    <view class="_div data-v-9b178ae6 top">
+      <image src alt class="_img data-v-9b178ae6"></image>
+      <view class="_p data-v-9b178ae6 name">开心农家乐</view>
+    </view>
+    <view class="_div data-v-9b178ae6 cell"><label class="_span data-v-9b178ae6 label">为庄园打分</label>
+      <view class="_div data-v-9b178ae6 right">
+        <image src alt class="_img data-v-9b178ae6"></image>
+        <image src alt class="_img data-v-9b178ae6"></image>
+        <image src alt class="_img data-v-9b178ae6"></image>
+        <image src alt class="_img data-v-9b178ae6"></image>
+        <image src alt class="_img data-v-9b178ae6"></image>
+      </view>
+    </view>
+    <view class="_div data-v-9b178ae6 cell"><label class="_span data-v-9b178ae6 label">人均消费</label>
+      <view class="_div data-v-9b178ae6 right"><label class="_span data-v-9b178ae6">￥</label> <input type="text" placeholder="请输入消费金额" class="_input data-v-9b178ae6" /></view>
+    </view>
+    <view class="_div data-v-9b178ae6 bottom"><textarea cols="30" rows="10" placeholder="对农庄还满意吗？请留下您的评价" class="_textarea data-v-9b178ae6" /></view> <view class="_div data-v-9b178ae6 upload" catchtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}"><view class="_div data-v-9b178ae6 img-btn"><image src alt class="_img data-v-9b178ae6"></image> <label class="_span data-v-9b178ae6">添加图片</label></view> <view class="_p data-v-9b178ae6">最多上传6张图片</view></view> <view class="_div data-v-9b178ae6 img-box"><image src="{{item}}" alt mode="center" wx:key="index" key="{{index}}" wx:for="{{tempFilePaths}}" wx:for-index="index" wx:for-item="item" class="_img data-v-9b178ae6"></image></view> <button class="_button data-v-9b178ae6 submit-btn">发布</button></view></template>

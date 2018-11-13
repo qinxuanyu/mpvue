@@ -1,0 +1,3 @@
+<import src="slots" /><template name="index$7665df12">
+  <view wx:if="{{activeIndex === index}}" class="_div data-v-005ea657 weui-tab__content"><template name="default"></template><template data="{{...$root[$k], $root}}" is="{{$slotdefault || 'default'}}"></template></view>
+</template>

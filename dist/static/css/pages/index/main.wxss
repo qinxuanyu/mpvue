@@ -1,0 +1,53 @@
+@import "/static/css/vendor.wxss";
+
+.index .weui-grids {
+  border: 0 !important;
+}
+.index .weui-grids .weui-grid {
+  border: 0 !important;
+}
+.index .list {
+  font-size: 26rpx;
+}
+.index .list ._li {
+  padding: 20rpx;
+}
+.index .list ._li .title {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.index .list ._li .img-wrap {
+  width: 710rpx;
+  height: 340rpx;
+  border-radius: 10rpx;
+  overflow: hidden;
+  position: relative;
+}
+.index .list ._li .img-wrap ._img {
+  width: 100%;
+  height: 100%;
+}
+.index .list ._li .img-wrap .icon {
+  width: 62rpx;
+  height: 62rpx;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50% 50%);
+}
+.index .list ._li .num {
+  display: flex;
+  justify-content: flex-end;
+}
+.index .list ._li .num .item {
+  display: flex;
+  align-items: center;
+}
+.index .list ._li .num .item ._img {
+  width: 30rpx;
+  height: 30rpx;
+}
+.card {
+  padding: 20rpx;
+}

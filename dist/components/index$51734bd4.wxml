@@ -1,0 +1,3 @@
+<template name="index$51734bd4">
+  <view class="_div data-v-1ec3bea9 {{['weui-badge', [!text ? 'weui-badge_dot' : ''], wrapClassName]}}" style=" {{('background-color:' + color + ';')}}">{{text}}</view>
+</template>

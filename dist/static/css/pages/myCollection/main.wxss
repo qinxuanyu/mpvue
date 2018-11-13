@@ -1,0 +1,34 @@
+@import "/static/css/vendor.wxss";
+
+.collection-list ._ul .item.data-v-d350501c {
+  display: flex;
+  padding: 20rpx 32rpx;
+  border-bottom: 2rpx solid #f4f4f4;
+}
+.collection-list ._ul .item > ._img.data-v-d350501c {
+  width: 174rpx;
+  height: 152rpx;
+}
+.collection-list ._ul .item .text.data-v-d350501c {
+  padding-left: 40rpx;
+}
+.collection-list ._ul .item .text ._p.data-v-d350501c {
+  min-height: 100rpx;
+  font-size: 30rpx;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.collection-list ._ul .item .text .num.data-v-d350501c {
+  display: flex;
+  justify-content: space-between;
+}
+.collection-list ._ul .item .text .num .red.data-v-d350501c {
+  font-size: 34rpx;
+  color: #f11010;
+}
+.collection-list ._ul .item .text .num .distance.data-v-d350501c {
+  color: #8f8f8f;
+  font-size: 28rpx;
+}

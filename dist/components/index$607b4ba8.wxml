@@ -1,0 +1,8 @@
+<import src="index$6428d1ad" /><template name="index$607b4ba8">
+  <view class="_div data-v-1a371434 my-info">
+    <view class="_div data-v-1a371434 avatar">
+      <image src alt class="_img data-v-1a371434"></image>
+      <view class="_p data-v-1a371434">点击修改头像</view>
+    </view> <template content="用户名" label="快乐" data="{{...$root[$kk+'0'], $root}}" is="index$6428d1ad"></template> <template content="性别" label="男" data="{{...$root[$kk+'1'], $root}}" is="index$6428d1ad"></template> <template content="出生日期" label="1993-03-04" data="{{...$root[$kk+'2'], $root}}" is="index$6428d1ad"></template> <template content="地址管理" label data="{{...$root[$kk+'3'], $root}}" is="index$6428d1ad"></template>
+  </view>
+</template>

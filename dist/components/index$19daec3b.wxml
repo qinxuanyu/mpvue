@@ -1,0 +1,16 @@
+<template name="index$19daec3b">
+  <view class="_div data-v-0fe19337 coupons">
+    <view class="_ul data-v-0fe19337">
+      <view class="_li data-v-0fe19337 clearfix">
+        <view class="_div data-v-0fe19337 left">
+          <view class="_p data-v-0fe19337 type"><label class="_span data-v-0fe19337">￥10</label>满减券</view>
+          <view class="_p data-v-0fe19337 num">全站满￥190减￥25</view>
+        </view>
+        <view class="_div data-v-0fe19337 rigth">
+          <view class="_p data-v-0fe19337 btn"> 立即<view class="_br data-v-0fe19337"></view> 领取 </view>
+        </view>
+      </view>
+      <view class="_li data-v-0fe19337"></view>
+    </view>
+  </view>
+</template>
