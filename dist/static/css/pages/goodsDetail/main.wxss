@@ -1,0 +1,65 @@
+@import "/static/css/vendor.wxss";
+
+.goods-detail swiper.data-v-a4092d1e {
+  height: 600rpx;
+}
+.goods-detail swiper image.data-v-a4092d1e {
+  width: 100%;
+  height: 100%;
+}
+.goods-detail .main.data-v-a4092d1e {
+  padding: 26rpx 32rpx;
+}
+.goods-detail .main .name.data-v-a4092d1e {
+  display: flex;
+}
+.goods-detail .main .name ._p.data-v-a4092d1e {
+  font-size: 30rpx;
+}
+.goods-detail .main .name ._img.data-v-a4092d1e {
+  width: 42rpx;
+  height: 38rpx;
+  margin-left: 30rpx;
+}
+.goods-detail .main .price.data-v-a4092d1e {
+  display: flex;
+}
+.goods-detail .main .price .left.data-v-a4092d1e {
+  flex: 1;
+  font-size: 26rpx;
+}
+.goods-detail .main .price .left .sales.data-v-a4092d1e {
+  color: #999999;
+}
+.goods-detail .main .price .left .num.data-v-a4092d1e {
+  color: #f11010;
+}
+.goods-detail .main .price ._button.data-v-a4092d1e {
+  width: 153rpx;
+  height: 55rpx;
+  padding: 0;
+  line-height: 55rpx;
+  font-size: 26rpx;
+  color: #fff;
+  background-color: #39b27d;
+}
+.goods-detail .line.data-v-a4092d1e {
+  padding: 40rpx 143rpx;
+  background-color: #f3f3f3;
+  position: relative;
+}
+.goods-detail .line ._div.data-v-a4092d1e {
+  height: 2rpx;
+  width: 100%;
+  background-color: #bdbdbd;
+}
+.goods-detail .line ._span.data-v-a4092d1e {
+  width: 162rpx;
+  font-size: 28rpx;
+  position: absolute;
+  left: 50%;
+  top: 20rpx;
+  transform: translate(-50%);
+  background-color: #f3f3f3;
+  text-align: center;
+}

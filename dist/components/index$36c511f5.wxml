@@ -1,0 +1,22 @@
+<template name="index$36c511f5">
+  <view class="_div data-v-a4092d1e goods-detail">
+    <swiper indicator-dots="{{true}}" autoplay="{{true}}" indicator-active-color="#60a609" indicator-color="#fff" class="_swiper data-v-a4092d1e">
+      <swiper-item wx:key="index" key="{{index}}" wx:for="{{imgUrls}}" wx:for-index="index" wx:for-item="item" class="_swiper-item data-v-a4092d1e">
+        <image src="{{item}}" class="_image data-v-a4092d1e slide-image" width="355" height="150"></image>
+      </swiper-item>
+    </swiper>
+    <view class="_div data-v-a4092d1e main">
+      <view class="_div data-v-a4092d1e name">
+        <view class="_p data-v-a4092d1e">农庄自家菜地种植 绿色无污染有机 小白菜 2斤装</view>
+        <image src alt class="_img data-v-a4092d1e"></image>
+      </view>
+      <view class="_div data-v-a4092d1e price">
+        <view class="_div data-v-a4092d1e left"><label class="_span data-v-a4092d1e num">￥22.2</label> <label class="_span data-v-a4092d1e sales">已售63</label></view> <button class="_button data-v-a4092d1e">加入购物车</button>
+      </view>
+    </view>
+    <view class="_div data-v-a4092d1e line">
+      <view class="_div data-v-a4092d1e"></view> <label class="_span data-v-a4092d1e">图文详情</label>
+    </view>
+    <view class="_div data-v-a4092d1e nodes"></view>
+  </view>
+</template>

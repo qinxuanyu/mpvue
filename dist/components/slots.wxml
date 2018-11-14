@@ -1,19 +1,2 @@
-<import src="manorList$ac43fe56" />
 <import src="Integral-goods-list$645d6da0" />
-<import src="index$73ddf0ca" />
-<import src="index$1b8bdc43" />
-<import src="index$4a0cc691" />
-<import src="index$6428d1ad" />
-<import src="index$73ddf0ca" />
-<import src="collection-list$477631c7" />
-<import src="index$34cb3333" />
-<template name="data-v-54891a2c-default-2">
-  <view wx:if="{{activeIndex  === index}}" class="_div data-v-54891a2c weui-tab__content" wx:key="index" key="{{index}}" wx:for="{{columns}}" wx:for-index="index" wx:for-item="item">
-    {{item}}的内容 </view>
-</template>
-<template name="data-v-06c4e47c-default-3"><template icon-src label="Grid" data="{{...$root[$kk+'1'], $root}}" is="index$4a0cc691"></template> <template icon-src label="Grid" data="{{...$root[$kk+'2'], $root}}" is="index$4a0cc691"></template></template>
-<template name="data-v-0361abd4-default-0">
-  <view wx:if="{{activeIndex === index}}" class="_div data-v-0361abd4 weui-tab__content" wx:key="item" key="{{item}}" wx:for="{{columns}}" wx:for-index="index" wx:for-item="item">
-    {{item}}
-  </view>
-</template>
+<import src="manorList$ac43fe56" />

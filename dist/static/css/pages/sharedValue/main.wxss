@@ -1,0 +1,25 @@
+@import "/static/css/vendor.wxss";
+
+.share .top.data-v-8890c014 {
+  height: 240rpx;
+  text-align: center;
+  position: relative;
+}
+.share .top .title.data-v-8890c014 {
+  font-size: 30rpx;
+  color: #2e2e2e;
+}
+.share .top .num.data-v-8890c014 {
+  font-size: 40rpx;
+  color: #e72a02;
+}
+.share .top .num ._span.data-v-8890c014 {
+  font-size: 30rpx;
+}
+.share .top ._a.data-v-8890c014 {
+  width: 40rpx;
+  height: 40rpx;
+  position: absolute;
+  right: 12rpx;
+  top: 12rpx;
+}

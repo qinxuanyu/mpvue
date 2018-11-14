@@ -1,0 +1,30 @@
+<import src="index$73ddf0ca" />
+<import src="Integral-goods-list$645d6da0" /><template name="index$3d30e47e">
+  <view class="_div data-v-60cbe288 circle"><template value="{{activeIndex}}" bindchange="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" data="{{...$root[$kk+'0'], $root, $slotdefault:'data-v-60cbe288-default-0'}}" is="index$73ddf0ca"></template>
+    <view class="_div data-v-60cbe288 nc-line"></view>
+    <view class="_div data-v-60cbe288 circle-list">
+      <view class="_ul data-v-60cbe288">
+        <view class="_li data-v-60cbe288 item">
+          <view class="_div data-v-60cbe288 top">
+            <image src alt class="_img data-v-60cbe288"></image>
+            <view class="_p data-v-60cbe288">一笑很甜</view> <label class="_span data-v-60cbe288">2018-11-12</label>
+          </view>
+          <view class="_p data-v-60cbe288 content">上次去农庄玩的时候在农场菜地买的一株小辣椒，买回 来给女儿玩的，现在两个月了都长成图二的样子了。</view>
+          <view class="_div data-v-60cbe288 img-box">
+            <image src alt class="_img data-v-60cbe288"></image>
+            <image src alt class="_img data-v-60cbe288"></image>
+            <image src alt class="_img data-v-60cbe288"></image>
+          </view>
+          <view class="_div data-v-60cbe288 bottom">
+            <view class="_div data-v-60cbe288 item">
+              <image src alt class="_img data-v-60cbe288"></image> <label class="_span data-v-60cbe288">13</label>
+            </view>
+            <view class="_div data-v-60cbe288 item">
+              <image src alt class="_img data-v-60cbe288"></image> <label class="_span data-v-60cbe288">18</label>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view> <template data="{{...$root[$kk+'1'], $root}}" is="Integral-goods-list$645d6da0"></template>
+  </view>
+</template>

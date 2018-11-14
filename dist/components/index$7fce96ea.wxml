@@ -1,0 +1,6 @@
+<import src="index$73ddf0ca" />
+<import src="integral-detail-list$16be6a0f" /><template name="index$7fce96ea">
+  <view class="_div data-v-cdf2c46e integral-detail"><template value="{{activeIndex}}" bindchange="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" data="{{...$root[$kk+'0'], $root, $slotdefault:'data-v-cdf2c46e-default-0'}}" is="index$73ddf0ca"></template>
+    <view class="_div data-v-cdf2c46e nc-line"></view> <template data="{{...$root[$kk+'1'], $root}}" is="integral-detail-list$16be6a0f"></template>
+  </view>
+</template>

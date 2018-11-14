@@ -58,6 +58,12 @@ export default {
   font-size: 32rpx;
   line-height: 77rpx;
 }
+.weui-navbar{
+   border:0;
+   .weui-navbar__slider{
+      background-color: #39b27d;
+   }
+}
 view{
 	color: #212121;
 }

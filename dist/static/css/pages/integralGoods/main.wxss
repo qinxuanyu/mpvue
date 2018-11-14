@@ -1,0 +1,38 @@
+@import "/static/css/vendor.wxss";
+
+.integral-goods .top.data-v-8d105898 {
+  height: 260rpx;
+  position: relative;
+}
+.integral-goods .top .avatar.data-v-8d105898 {
+  width: 100%;
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 26rpx 28rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.integral-goods .top .avatar ._img.data-v-8d105898 {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.integral-goods .top .avatar ._span.data-v-8d105898 {
+  font-size: 26rpx;
+  color: #fff;
+}
+.integral-goods .top > ._img.data-v-8d105898 {
+  width: 124rpx;
+  height: 80rpx;
+  display: block;
+  margin: 70rpx auto 0 auto;
+}
+.integral-goods .top > ._p.data-v-8d105898 {
+  font-size: 48rpx;
+  color: #f0d200;
+  text-align: center;
+}

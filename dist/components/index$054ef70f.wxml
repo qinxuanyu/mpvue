@@ -1,0 +1,52 @@
+<template name="index$054ef70f">
+  <view class="_div data-v-6b372dcb store">
+    <swiper indicator-dots="{{true}}" autoplay="{{true}}" class="_swiper data-v-6b372dcb">
+      <swiper-item wx:key="index" key="{{index}}" wx:for="{{imgUrls}}" wx:for-index="index" wx:for-item="item" class="_swiper-item data-v-6b372dcb">
+        <image src="{{item}}" class="_image data-v-6b372dcb slide-image" width="355" height="150"></image>
+      </swiper-item>
+    </swiper>
+    <view class="_div data-v-6b372dcb srot">
+      <view class="_div data-v-6b372dcb item"><label class="_span data-v-6b372dcb">距离排序</label>
+        <view class="_div data-v-6b372dcb icon">
+          <image src alt class="_img data-v-6b372dcb"></image>
+          <image src alt class="_img data-v-6b372dcb"></image>
+        </view>
+      </view>
+      <view class="_div data-v-6b372dcb item"><label class="_span data-v-6b372dcb">价格排序</label>
+        <view class="_div data-v-6b372dcb icon">
+          <image src alt class="_img data-v-6b372dcb"></image>
+          <image src alt class="_img data-v-6b372dcb"></image>
+        </view>
+      </view>
+    </view>
+    <view class="_div data-v-6b372dcb nc-line"></view>
+    <view class="_div data-v-6b372dcb list">
+      <view class="_div data-v-6b372dcb class">
+        <view class="_ul data-v-6b372dcb">
+          <view class="_li data-v-6b372dcb active">蛋类</view>
+          <view class="_li data-v-6b372dcb">蔬菜</view>
+        </view>
+      </view>
+      <view class="_div data-v-6b372dcb goods">
+        <view class="_ul data-v-6b372dcb">
+          <view class="_li data-v-6b372dcb">
+            <image src alt mode="center" class="_img data-v-6b372dcb"></image>
+            <view class="_div data-v-6b372dcb main">
+              <view class="_p data-v-6b372dcb">农家走地鸡鸡蛋30枚</view>
+              <view class="_p data-v-6b372dcb sales">已售51</view>
+              <view class="_div data-v-6b372dcb bottom"><label class="_span data-v-6b372dcb">388积分</label>
+                <view class="_div data-v-6b372dcb operation"><label class="_span data-v-6b372dcb subtract">-</label> <label class="_span data-v-6b372dcb num">1</label> <label class="_span data-v-6b372dcb add">+</label></view>
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="_div data-v-6b372dcb card">
+      <view class="_div data-v-6b372dcb total">
+        <image src alt class="_img data-v-6b372dcb"></image> <label class="_span data-v-6b372dcb title">总价</label> <label class="_span data-v-6b372dcb num">￥79.8</label>
+      </view>
+      <view class="_div data-v-6b372dcb btn">想要（1）</view>
+    </view>
+  </view>
+</template>

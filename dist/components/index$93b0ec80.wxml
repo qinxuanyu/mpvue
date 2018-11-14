@@ -1,0 +1,8 @@
+<template name="index$93b0ec80">
+  <view class="_div data-v-bb11bd08 shared-explain">
+    <view class="_p data-v-bb11bd08 title">分享收益说明</view>
+    <view class="_p data-v-bb11bd08">分享小程序、自然课堂资讯给其他用户即可获得积分， 每天操作上限5次，每次可获得8积分。</view>
+    <view class="_p data-v-bb11bd08"> 分享庄园二维码给其他用户，其他用户消费即可获取 积分，获取积分为消费金额的五分之一，例如其他用 户消费100元，则本人可获得20积分。 </view>
+    <view class="_p data-v-bb11bd08"> 获得积分的记录可在分享活动中或积分区积分明细中 查看，可在积分区兑换积分商品 </view>
+  </view>
+</template>

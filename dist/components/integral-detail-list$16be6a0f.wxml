@@ -1,0 +1,12 @@
+<template name="integral-detail-list$16be6a0f">
+  <view class="_div data-v-7a54e6c4 integral-list">
+    <view class="_ul data-v-7a54e6c4">
+      <view class="_li data-v-7a54e6c4 item">
+        <view class="_div data-v-7a54e6c4">
+          <view class="_p data-v-7a54e6c4 time">{{title}}</view>
+          <view class="_p data-v-7a54e6c4 type">{{inlineDesc}}</view>
+        </view> <label class="_span data-v-7a54e6c4">{{content}}</label>
+      </view>
+    </view>
+  </view>
+</template>

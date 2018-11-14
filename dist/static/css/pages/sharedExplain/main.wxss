@@ -1,0 +1,15 @@
+@import "/static/css/vendor.wxss";
+
+.shared-explain.data-v-bb11bd08 {
+  padding: 35rpx;
+}
+.shared-explain .title.data-v-bb11bd08 {
+  padding-left: 20rpx;
+  border-left: 5rpx solid #39b27d;
+  color: #39b27d;
+  margin-bottom: 35rpx;
+}
+.shared-explain ._p.data-v-bb11bd08 {
+  font-size: 28rpx;
+  margin-bottom: 50rpx;
+}

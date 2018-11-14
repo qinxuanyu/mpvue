@@ -10,13 +10,23 @@
                         <button>去看看</button>
                     </div>
                 </div>
-            </li>
+            </li>          
         </ul>
     </div>
 </template>
 <script>
     export default {
-        
+        data (){
+            return{
+
+            }
+        },
+        props:{
+            imgUrl:String,
+            name:String,
+            num:String,
+            button:String
+        }
     }
 </script>
 <style lang="less" scoped>
@@ -51,6 +61,7 @@
                         button{
                             width: 159rpx;
                             height: 57rpx;
+                            font-size: 28rpx;
                             line-height: 57rpx;
                             margin: 0;
                             background-color: #39b27d;

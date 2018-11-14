@@ -1,0 +1,12 @@
+<import src="Integral-goods-list$645d6da0" /><template name="index$65af8810">
+  <view class="_div data-v-8d105898 integral-goods">
+    <view class="_div data-v-8d105898 top">
+      <view class="_div data-v-8d105898 avatar">
+        <image src alt class="_img data-v-8d105898"></image> <label class="_span data-v-8d105898">积分明细</label>
+      </view>
+      <image src alt class="_img data-v-8d105898"></image>
+      <view class="_p data-v-8d105898">4230</view>
+    </view>
+    <view class="_div data-v-8d105898 nc-line"></view> <template data="{{...$root[$kk+'0'], $root}}" is="Integral-goods-list$645d6da0"></template>
+  </view>
+</template>
