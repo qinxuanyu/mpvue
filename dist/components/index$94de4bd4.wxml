@@ -1,0 +1,12 @@
+<template name="index$94de4bd4">
+  <view class="_div data-v-21fb9092 pay">
+    <view class="_div data-v-21fb9092 main">
+      <image src alt class="_img data-v-21fb9092"></image>
+      <view class="_p data-v-21fb9092 totle">￥133.0</view>
+    </view>
+    <view class="_div data-v-21fb9092 cell"><label class="_span data-v-21fb9092 title">支付方式</label> <label class="_span data-v-21fb9092 type">微信支付</label></view>
+    <view class="_div data-v-21fb9092 btn">
+      <view class="_p data-v-21fb9092">支付享积分</view> <button class="_button data-v-21fb9092 submit-btn-bottom">立即支付￥11.00</button>
+    </view>
+  </view>
+</template>

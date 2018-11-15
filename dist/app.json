@@ -1,7 +1,8 @@
 {
   "pages": [
-    "pages/circle/main",
+    "pages/orderDetail/main",
     "pages/addSite/main",
+    "pages/circle/main",
     "pages/counter/main",
     "pages/coupons/main",
     "pages/details/main",
@@ -16,9 +17,12 @@
     "pages/my/main",
     "pages/myCollection/main",
     "pages/myInfo/main",
+    "pages/myOrder/main",
     "pages/myPath/main",
     "pages/myPlant/main",
     "pages/mySite/main",
+    "pages/pay/main",
+    "pages/placeOrder/main",
     "pages/releaseEvaluation/main",
     "pages/search/main",
     "pages/searchList/main",

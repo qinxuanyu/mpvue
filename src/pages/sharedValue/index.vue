@@ -5,11 +5,19 @@
             <p class="num">1388<span>积分</span></p>
             <a href=""></a>
         </div>
+        <div class="nc-line"></div>
+        <integral-detail-list></integral-detail-list>
     </div>
 </template>
 <script>
+    import integralDetailList from '@/components/integral-detail-list'
     export default {
-        
+        data (){
+            return{
+
+            }
+        },
+        components:{integralDetailList}
     }
 </script>
 <style lang="less" scoped>

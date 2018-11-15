@@ -1,0 +1,83 @@
+@import "/static/css/vendor.wxss";
+
+.place-order.data-v-81cb599a {
+  min-height: 100vh;
+  background-color: #f3f3f3;
+}
+.place-order .radio-group.data-v-81cb599a {
+  background-color: #fff;
+  font-size: 30rpx;
+  padding: 30rpx 40rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.place-order .site.data-v-81cb599a {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 22rpx 33rpx;
+  align-items: center;
+}
+.place-order .site .left.data-v-81cb599a {
+  width: 42rpx;
+  height: 51rpx;
+}
+.place-order .site .middle.data-v-81cb599a {
+  flex: 1;
+  font-size: 26rpx;
+  padding: 0 43rpx 0 25rpx;
+}
+.place-order .site .middle > ._div.data-v-81cb599a {
+  display: flex;
+  justify-content: space-between;
+}
+.place-order .site .right.data-v-81cb599a {
+  width: 16rpx;
+  height: 31rpx;
+}
+.place-order .list.data-v-81cb599a {
+  background-color: #fff;
+  overflow: hidden;
+}
+.place-order .card.data-v-81cb599a {
+  width: 100%;
+  height: 97rpx;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  border-top: 2rpx solid #dbdbdb;
+  background-color: #fff;
+}
+.place-order .card .total.data-v-81cb599a {
+  flex: 1;
+  display: flex;
+  padding-left: 25rpx;
+  align-items: center;
+}
+.place-order .card .total ._img.data-v-81cb599a {
+  width: 50rpx;
+  height: 50rpx;
+}
+.place-order .card .total .title.data-v-81cb599a {
+  color: #999;
+  font-size: 26rpx;
+}
+.place-order .card .total .num.data-v-81cb599a {
+  color: #f11010;
+  font-size: 32rpx;
+}
+.place-order .card .quantity.data-v-81cb599a {
+  font-size: 26rpx;
+  line-height: 97rpx;
+  padding-right: 24rpx;
+}
+.place-order .card .btn.data-v-81cb599a {
+  width: 227rpx;
+  height: 97rpx;
+  font-size: 30rpx;
+  color: #fff;
+  background-color: #39b27d;
+  line-height: 97rpx;
+  text-align: center;
+}

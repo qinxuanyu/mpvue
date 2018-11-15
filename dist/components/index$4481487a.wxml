@@ -1,9 +1,10 @@
-<template name="index$4481487a">
+<import src="integral-detail-list$16be6a0f" /><template name="index$4481487a">
   <view class="_div data-v-8890c014 share">
     <view class="_div data-v-8890c014 top">
       <view class="_p data-v-8890c014 title">总收益</view>
       <view class="_p data-v-8890c014 num">1388<label class="_span data-v-8890c014">积分</label></view>
       <view url class="_a data-v-8890c014"></view>
     </view>
+    <view class="_div data-v-8890c014 nc-line"></view> <template data="{{...$root[$kk+'0'], $root}}" is="integral-detail-list$16be6a0f"></template>
   </view>
 </template>

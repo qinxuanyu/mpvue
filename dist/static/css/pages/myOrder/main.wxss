@@ -1,0 +1,38 @@
+@import "/static/css/vendor.wxss";
+
+.my-order ._ul .item.data-v-599becec {
+  padding-left: 30rpx;
+}
+.my-order ._ul .item .name.data-v-599becec {
+  padding: 26rpx 30rpx 36rpx 0;
+  font-size: 26rpx;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2rpx solid #dbdbdb;
+}
+.my-order ._ul .item .name ._span.data-v-599becec {
+  color: #e61b1b;
+}
+.my-order ._ul .item .goods.data-v-599becec {
+  padding-right: 28rpx;
+  padding-bottom: 23rpx;
+}
+.my-order ._ul .item .goods .time.data-v-599becec {
+  font-size: 26rpx;
+  line-height: 73rpx;
+}
+.my-order ._ul .item .goods .img-box.data-v-599becec {
+  display: flex;
+}
+.my-order ._ul .item .goods .img-box ._img.data-v-599becec {
+  width: 140rpx;
+  height: 127rpx;
+  margin: 10rpx;
+}
+.my-order ._ul .item .goods .totle.data-v-599becec {
+  font-size: 26rpx;
+  text-align: right;
+}
+.my-order ._ul .item .goods .totle .num.data-v-599becec {
+  font-size: 30rpx;
+}

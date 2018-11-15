@@ -25,7 +25,8 @@
             imgUrl:String,
             name:String,
             num:String,
-            button:String
+            button:String,
+            
         }
     }
 </script>

@@ -1,0 +1,19 @@
+<template name="index$639545f0">
+  <view class="_div data-v-599becec my-order">
+    <view class="_ul data-v-599becec">
+      <view class="_li data-v-599becec item">
+        <view class="_div data-v-599becec name">
+          <view class="_div data-v-599becec"> 开心农场 </view> <label class="_span data-v-599becec">待付款</label>
+        </view>
+        <view class="_div data-v-599becec goods">
+          <view class="_p data-v-599becec time">11-11 10:20</view>
+          <view class="_div data-v-599becec img-box">
+            <image src alt mode="aspectFill" class="_img data-v-599becec"></image>
+            <image src alt mode="aspectFill" class="_img data-v-599becec"></image>
+          </view>
+          <view class="_p data-v-599becec totle"><label class="_span data-v-599becec">共3件商品   总价</label> <label class="_span data-v-599becec num">￥255.00</label></view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

@@ -1,0 +1,23 @@
+<import src="order-goods-list$4ecedbac" />
+<import src="index$6428d1ad" /><template name="index$72d8e975">
+  <view class="_div data-v-81cb599a place-order">
+    <radio-group class="_radio-group data-v-81cb599a radio-group" bindchange="radioChange"><label class="_label data-v-81cb599a radio" wx:key="index" key="{{index}}" wx:for="{{items}}" wx:for-index="index" wx:for-item="item">
+        <radio value="{{item.name}}" checked="{{item.checked}}" color="#39b27d" class="_radio data-v-81cb599a" />{{item.value}}
+      </label></radio-group>
+    <view class="_div data-v-81cb599a site">
+      <image class="_img data-v-81cb599a left" src alt></image>
+      <view class="_div data-v-81cb599a middle">
+        <view class="_div data-v-81cb599a"><label class="_span data-v-81cb599a">收货人:qin</label> <label class="_span data-v-81cb599a">13333333333</label></view>
+        <view class="_p data-v-81cb599a"></view>
+      </view>
+      <image class="_img data-v-81cb599a right" src alt></image>
+    </view>
+    <view class="_div data-v-81cb599a nc-line"></view>
+    <view class="_div data-v-81cb599a list"><template data="{{...$root[$kk+'1'], $root}}" is="order-goods-list$4ecedbac"></template> <template content="标题文字" label="说明文字" data="{{...$root[$kk+'2'], $root}}" is="index$6428d1ad"></template></view>
+    <view class="_div data-v-81cb599a card">
+      <view class="_div data-v-81cb599a total"><label class="_span data-v-81cb599a title">总价</label> <label class="_span data-v-81cb599a num">￥79.8</label></view>
+      <view class="_div data-v-81cb599a quantity">共2件商品</view>
+      <view class="_div data-v-81cb599a btn">想要</view>
+    </view>
+  </view>
+</template>

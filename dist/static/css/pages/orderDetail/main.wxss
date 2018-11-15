@@ -1,0 +1,88 @@
+@import "/static/css/vendor.wxss";
+
+.order-detail .state.data-v-673e6969 {
+  font-size: 30rpx;
+  line-height: 70rpx;
+  text-align: center;
+  background-color: #f3f3f3;
+}
+.order-detail .logistics.data-v-673e6969 {
+  display: flex;
+  align-items: center;
+  padding: 20rpx 34rpx;
+}
+.order-detail .logistics .left.data-v-673e6969 {
+  flex: 1;
+}
+.order-detail .logistics .left .title.data-v-673e6969 {
+  font-size: 28rpx;
+}
+.order-detail .logistics .left .company.data-v-673e6969 {
+  font-size: 26rpx;
+  line-height: 50rpx;
+}
+.order-detail .logistics .left .info.data-v-673e6969 {
+  font-size: 26rpx;
+}
+.order-detail .logistics .left .time.data-v-673e6969 {
+  font-size: 26rpx;
+}
+.order-detail .logistics > ._img.data-v-673e6969 {
+  width: 18rpx;
+  height: 35rpx;
+}
+.order-detail .goods-list .name.data-v-673e6969 {
+  padding: 27rpx 33rpx;
+  font-size: 26rpx;
+  border-bottom: 2rpx solid #dbdbdb;
+}
+.order-detail .totle.data-v-673e6969 {
+  text-align: right;
+  padding: 0 35rpx;
+  line-height: 77rpx;
+  font-size: 28rpx;
+  color: #565656;
+  background-color: #f3f3f3;
+}
+.order-detail .totle .num.data-v-673e6969 {
+  font-size: 40rpx;
+  color: #f11010;
+}
+.order-detail .order-info.data-v-673e6969 {
+  padding: 24rpx 34rpx;
+}
+.order-detail .order-info .title.data-v-673e6969 {
+  font-size: 28rpx;
+  color: #2f2f2f;
+}
+.order-detail .order-info .text.data-v-673e6969 {
+  font-size: 26rpx;
+  color: #999999;
+}
+.order-detail .order-info .btn.data-v-673e6969 {
+  height: 96rpx;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.order-detail .order-info .btn ._button.data-v-673e6969 {
+  width: 160rpx;
+  height: 57rpx;
+  font-size: 28rpx;
+  line-height: 57rpx;
+  margin: 0;
+  margin-left: 22rpx;
+}
+.order-detail .order-info .btn .border.data-v-673e6969 {
+  background-color: #fff;
+  color: #39b27d;
+  border: 2rpx solid #39b27d;
+}
+.order-detail .order-info .btn .gray.data-v-673e6969 {
+  background-color: #bababa;
+  color: #6a6a6a;
+}
+.order-detail .order-info .btn .background.data-v-673e6969 {
+  background-color: #39b27d;
+  color: #fff;
+}

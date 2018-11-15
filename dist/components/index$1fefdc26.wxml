@@ -1,0 +1,27 @@
+<import src="order-goods-list$4ecedbac" />
+<import src="index$6428d1ad" /><template name="index$1fefdc26">
+  <view class="_div data-v-673e6969 order-detail">
+    <view class="_div data-v-673e6969 state">订单已完成</view>
+    <view url class="_a data-v-673e6969 logistics">
+      <view class="_div data-v-673e6969 left">
+        <view class="_p data-v-673e6969 title">配送信息</view>
+        <view class="_p data-v-673e6969 company">暂未发货 || 天天快递：46768454524254</view>
+        <view class="_p data-v-673e6969 info">"已签收，签收人是本人】</view>
+        <view class="_p data-v-673e6969 time">2018-07-22 00:10:48</view>
+      </view>
+      <image src alt class="_img data-v-673e6969"></image>
+    </view>
+    <view class="_div data-v-673e6969 nc-line"></view>
+    <view class="_div data-v-673e6969 goods-list">
+      <view class="_div data-v-673e6969 name"> 开心农家乐 </view> <template data="{{...$root[$kk+'0'], $root}}" is="order-goods-list$4ecedbac"></template> <template content="配送" label="￥25.0" data="{{...$root[$kk+'1'], $root}}" is="index$6428d1ad"></template> <template content="优惠券" label="-￥10.0" data="{{...$root[$kk+'2'], $root}}" is="index$6428d1ad"></template>
+    </view>
+    <view class="_div data-v-673e6969 totle"><label class="_span data-v-673e6969">实付</label> <label class="_span data-v-673e6969 num">￥153.0</label></view>
+    <view class="_div data-v-673e6969 order-info">
+      <view class="_p data-v-673e6969 title">订单信息</view>
+      <view class="_p data-v-673e6969 text">订单号码：201811093521</view>
+      <view class="_p data-v-673e6969 text">下单时间：2018-11-09 13:20:56</view>
+      <view class="_p data-v-673e6969 text">支付方式：微信</view>
+      <view class="_div data-v-673e6969 btn"><button class="_button data-v-673e6969 border">找客服</button> <button class="_button data-v-673e6969 gray">取消订单</button> <button class="_button data-v-673e6969 background">付款</button></view>
+    </view>
+  </view>
+</template>

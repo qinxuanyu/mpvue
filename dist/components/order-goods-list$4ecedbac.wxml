@@ -1,0 +1,11 @@
+<template name="order-goods-list$4ecedbac">
+  <view class="_div data-v-65ebb15f goods">
+    <image src alt class="_img data-v-65ebb15f"></image>
+    <view class="_div data-v-65ebb15f g-main">
+      <view class="_p data-v-65ebb15f">农庄自家走地鸡 喂五谷杂粮 土鸡蛋30枚</view>
+      <view class="_div data-v-65ebb15f g-bottom">
+        <view class="_p data-v-65ebb15f g-num">￥60.00<label class="_span data-v-65ebb15f">×1</label></view> <label class="_span data-v-65ebb15f g-total">￥60.00</label>
+      </view>
+    </view>
+  </view>
+</template>

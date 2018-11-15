@@ -1,10 +1,10 @@
-global.webpackJsonp([28],{
+global.webpackJsonp([32],{
 
-/***/ 111:
+/***/ 121:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_mp_weui_lib_style_css__ = __webpack_require__(144);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_mp_weui_lib_style_css__ = __webpack_require__(159);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_mp_weui_lib_style_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_mp_weui_lib_style_css__);
 
 
@@ -24,29 +24,29 @@ global.webpackJsonp([28],{
 
 /***/ }),
 
-/***/ 144:
+/***/ 159:
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
 
 /***/ }),
 
-/***/ 157:
+/***/ 172:
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
 
 /***/ }),
 
-/***/ 46:
+/***/ 47:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_mpvue_loader_1_0_13_mpvue_loader_lib_selector_type_script_index_0_App_vue__ = __webpack_require__(111);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_mpvue_loader_1_0_13_mpvue_loader_lib_selector_type_script_index_0_App_vue__ = __webpack_require__(121);
 var disposed = false
 function injectStyle (ssrContext) {
   if (disposed) return
-  __webpack_require__(157)
+  __webpack_require__(172)
 }
 var normalizeComponent = __webpack_require__(3)
 /* script */
@@ -90,7 +90,7 @@ if (false) {(function () {
 
 /***/ }),
 
-/***/ 75:
+/***/ 81:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -99,14 +99,23 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_helpers_extends___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_helpers_extends__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_vue__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_vue__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__App__ = __webpack_require__(46);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__App__ = __webpack_require__(47);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__store__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_mp_weui_packages_toast__ = __webpack_require__(79);
+
+
 
 
 
 
 __WEBPACK_IMPORTED_MODULE_1_vue___default.a.config.productionTip = false;
 __WEBPACK_IMPORTED_MODULE_2__App__["a" /* default */].mpType = 'app';
+__WEBPACK_IMPORTED_MODULE_1_vue___default.a.prototype.toast = function (text) {
+  if (!text) {
+    return;
+  }
+  __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_mp_weui_packages_toast__["a" /* default */])(text);
+};
 var app = new __WEBPACK_IMPORTED_MODULE_1_vue___default.a(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_helpers_extends___default()({}, __WEBPACK_IMPORTED_MODULE_2__App__["a" /* default */], {
   store: __WEBPACK_IMPORTED_MODULE_3__store__["a" /* default */]
 }));
@@ -116,7 +125,7 @@ app.$mount();
   // 这个字段走 app.json
   config: {
     // 页面前带有 ^ 符号的，会被编译成首页，其他页面可以选填，我们会自动把 webpack entry 里面的入口页面加进去
-    pages: ['^pages/circle/main'],
+    pages: ['^pages/orderDetail/main'],
     window: {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#fff',
@@ -128,5 +137,5 @@ app.$mount();
 
 /***/ })
 
-},[75]);
+},[81]);
 //# sourceMappingURL=app.js.map

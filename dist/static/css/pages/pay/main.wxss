@@ -1,0 +1,44 @@
+@import "/static/css/vendor.wxss";
+
+.pay.data-v-21fb9092 {
+  min-height: 100vh;
+  background-color: #f3f3f3;
+}
+.pay .main.data-v-21fb9092 {
+  background-color: #fff;
+  overflow: hidden;
+}
+.pay .main > ._img.data-v-21fb9092 {
+  display: block;
+  width: 270rpx;
+  height: 93rpx;
+  margin: 52rpx auto 37rpx auto;
+}
+.pay .main .totle.data-v-21fb9092 {
+  font-size: 44rpx;
+  color: #f11010;
+  text-align: center;
+  margin-bottom: 44rpx;
+}
+.pay .cell.data-v-21fb9092 {
+  display: flex;
+  padding: 37rpx 38rpx;
+  font-size: 30rpx;
+  border-top: 2rpx solid #f3f3f3;
+  background-color: #fff;
+  justify-content: space-between;
+}
+.pay .cell .type.data-v-21fb9092 {
+  color: #60a609;
+}
+.pay .btn.data-v-21fb9092 {
+  margin-top: 130rpx;
+}
+.pay .btn > ._p.data-v-21fb9092 {
+  font-size: 26rpx;
+  line-height: 60rpx;
+  text-align: center;
+}
+.pay .btn .submit-btn-bottom.data-v-21fb9092 {
+  margin-top: 0;
+}
